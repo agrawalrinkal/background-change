@@ -1,7 +1,7 @@
 {
-    "name": "Chnange color",
+    "name": "Change color",
     "version": "0.1.0",
-    "description": "Chnages the font and background color based on your selection",
+    "description": "Changes the font and background color based on your selection",
     "permissions": ["activeTab", "declarativeContent", "storage"],
     "background": {
       "scripts": ["background.js"],
